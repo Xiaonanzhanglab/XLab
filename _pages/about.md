@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Our research group is dedicated to developing targeted therapeutic strategies against quiescent cancer cells (QCCs) in solid tumours, with a primary focus on neuroblastoma, triple-negative breast cancer, and ovarian cancer. By elucidating the molecular and cellular characteristics of QCCs, we aim to uncover their critical contributions to tumour progression, therapy resistance, relapse, and metastasis. Through innovative translational approaches, we seek to translate these insights into novel, precision-based treatments that exploit cancer-specific vulnerabilities.
+Our research group is dedicated to developing targeted therapeutic strategies against quiescent cancer cells (QCCs) in solid tumours. We primarily focus on neuroblastoma, triple-negative breast cancer, and ovarian cancer. By elucidating the molecular and cellular characteristics of QCCs, we aim to uncover their critical contributions to tumour progression, therapy resistance, relapse, and metastasis. Through innovative translational approaches, we seek to translate these insights into novel, precision-based treatments that exploit cancer-specific vulnerabilities.
 
-Despite advancements in cancer treatment, recurrence in solid tumors—often driven by quiescent cancer cells (QCCs)—remains a leading cause of cancer-related deaths. These dormant cells can remain inactive for years before re-entering the cell cycle, significantly increasing the risk of relapse, especially in younger patients. Targeting the survival mechanisms of QCCs offers a promising approach to overcoming treatment resistance and preventing long-term recurrence. However, the study of QCCs has been challenging due to the lack of models and methods to clearly differentiate them from proliferating tumor cells.
+Despite significant advances in cancer therapy, recurrence in solid tumours remains a leading cause of mortality. This is frequently driven by quiescent cancer cells (QCCs), which can persist in a dormant state for years before re-entering the cell cycle and triggering relapse—particularly in paediatric and young adult patients. Targeting the survival mechanisms of QCCs represents a promising strategy to overcome treatment resistance and prevent long-term recurrence. However, progress has been limited by the scarcity of robust models capable of reliably distinguishing QCCs from proliferating tumour cells.
 
-To address this, we have established several QCC-reporter cell models, giving us an invaluable opportunity to discover and study the unique characteristics of QCCs across different tumor types. In our research, we have identified two key genes that play an important role in QCC survival, which can be targeted by newly identified small molecules from our current drug screening efforts. Additionally, we have observed a strong correlation between the expression of the gene and mitochondrial function, suggesting a potential link between QCCs and metabolic pathways.
+To overcome these limitations, we have developed several QCC-reporter cell models that enable precise identification and study of quiescent populations across different tumour types. Using these tools, we have identified two key genes that are essential for QCC survival. These genes are now being targeted by novel small-molecule inhibitors identified through our ongoing high-throughput drug screening efforts. Furthermore, our work has revealed a strong correlation between one of these genes and mitochondrial function, highlighting a previously underappreciated link between QCC dormancy and metabolic reprogramming.
 
-We are always interested in collaborating with talented researchers who share our passion for advancing cancer therapeutics. Please explore our research, publications, and opportunities to join the team.
+We are committed to advancing cancer therapeutics through interdisciplinary collaboration. Talented researchers—ranging from students to senior scientists—who share our vision are warmly invited to explore our ongoing projects, publications, and open positions.
 
-Contact: xiaonan.zhang@igp.uu.se
-Department of Immunology, Genetics and Pathology
-Rudbecklaboratoriet, Uppsala University, Sweden
-
- 
+Feel free to outreach:(mailto: xiaonan.zhang@igp.uu.se)
