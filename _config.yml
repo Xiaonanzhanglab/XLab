@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Uppsala, Sweden"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Xiaonan Zhang"
 title_separator          : "-"
 name                     : Xiaonan Zhang"
 description              : Associate Professor & Principal Investigator   # Update this with a general description of your site, this is the default if not overridden by a page
