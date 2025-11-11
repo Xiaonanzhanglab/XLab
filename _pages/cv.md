@@ -16,43 +16,38 @@ Education
 
 Work experience
 ======
-* 2024.02-Present, Associate Professor (Docent)
+* 2024.02, Associate Professor (Docent)
 Department of Immunology, Genetics and Pathology, Uppsala University, Sweden
-* 2020.02-2024.01, Project leader/Researcher
+* 2020-2024, Project leader/Researcher
 Department of Immunology, Genetics and Pathology, Uppsala University, Sweden
-* 2019.01-2020.02, Visting Researcher
+* 2019-2020, Visting Researcher
 Department of Obstetrics, Gynecology and Women's Health, University of Minnesota, USA
-* 2015.08-2019.01, Postdoctoral fellow
-Department of Oncology-Pathology, Cancer Centre Karolinska, Sweden
-
+* 2015-2019, Postdoctoral fellow
+Department of Oncology-Pathology, Cancer Centre Karolinska, Karolinska Institute, Sweden
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023, PI project: ‘New targets, new treatment strategies for neuroblastoma – what the ‘asleep’ cells tell us’, The Swedish Childhood Cancer Fund (PR2022-0071), Sweden
+* 2023, PI project: ‘Overcoming drug resistance and relapse by targeting quiescent cancer cell populations in ovarian cancer’, funded by Lena Wäppling's Foundation, Sweden
+* 2023, PI project: ‘Exploring new targets and therapeutic strategies for solid tumors’, funded by Cathrine Everts Foundation, Sweden
+* 2022, PI project: ‘Exploring novel therapeutic strategies by targeting chemoresistant cell population in solid tumors’, funded by Göran Gustafsson's Foundation (2022-#2229 and 2023-#2530), Sweden
+* 2022, PI project: ‘Exploring novel strategies by targeting the unique mitochondrial features in solid tumors’, funded by Jeanssons stiftelse, Sweden
+* 2021, PI project: ‘Targeting the vulnerabilities of chemoresistant quiescent cell populations in pediatric tumors’, funded by The Swedish Childhood Cancer Fund (TJ2021-0111), Sweden
+* 2021, PI project: ‘Develop novel strategies for solid tumor by finding specific vulnerabilities’, funded by The Swedish Childhood Cancer Fund (PR2020-0079), Sweden
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research articles: 35
+* Original articles: 27
+* First author articles: 12
+* Corresponding author articles: 7
+* Reviews, Highlights, Editorials: 7
   
-Talks
+Honours and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023, Cathrine Everts annual award winner, Sweden
+* 2022, Göran Gustafsson annual large prize for young researcher, Sweden
+* 2015, Annual national award for outstanding graduates, Karolinska Institute, Sweden 
+* 2015, Annual Science prize, Department of Oncology-Pathology, Karolinska Institute, Sweden 
+* 2014, Robert Lundbergs minnesstiftelse prize, Sweden
+* 2012, Cancer Centre Karolinska Winterviken Prize, Sweden
