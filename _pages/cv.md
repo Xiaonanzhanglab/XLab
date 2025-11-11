@@ -25,7 +25,7 @@ Department of Obstetrics, Gynecology and Women's Health, University of Minnesota
 * 2015-2019, Postdoctoral fellow
 Department of Oncology-Pathology, Cancer Centre Karolinska, Karolinska Institute, Sweden
  
-Skills
+Research projects
 ======
 * 2023, PI project: ‘New targets, new treatment strategies for neuroblastoma – what the ‘asleep’ cells tell us’, The Swedish Childhood Cancer Fund (PR2022-0071), Sweden
 * 2023, PI project: ‘Overcoming drug resistance and relapse by targeting quiescent cancer cell populations in ovarian cancer’, funded by Lena Wäppling's Foundation, Sweden
