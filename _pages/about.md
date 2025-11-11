@@ -13,4 +13,20 @@ Despite significant advances in cancer therapy, recurrence in solid tumours rema
 
 To overcome these limitations, we have developed several QCC-reporter cell models that enable precise identification and study of quiescent populations across different tumour types. Using these tools, we have identified two key genes that are essential for QCC survival. These genes are now being targeted by novel small-molecule inhibitors identified through our ongoing high-throughput drug screening efforts. Furthermore, our work has revealed a strong correlation between one of these genes and mitochondrial function, highlighting a previously underappreciated link between QCC dormancy and metabolic reprogramming.
 
-We are committed to advancing cancer therapeutics through interdisciplinary collaboration. Talented researchers—ranging from students to senior scientists—who share our vision are warmly invited to explore our ongoing projects, publications, and open positions.
+We are committed to advancing cancer therapeutics through interdisciplinary collaboration. Talented researchers who share our vision are warmly invited to explore our ongoing projects, publications and open positions, we are currently recruiting postdoctoral researchers and PhD students, if you are interested in working on a degree project with us, feel free to reach out as well.
+
+Contact info:
+
+Department of Immunology, Genetics and Pathology, Cancer Precision Medicine
+Research group Xiaonan Zhang, Uppsala University, Sweden
+
+E-mail: 
+xiaonan.zhang@igp.uu.se
+
+Visiting address: 
+Dag Hammarskjölds väg 20, 
+751 85 Uppsala
+
+Postal address:
+Rudbecklaboratoriet
+751 85 Uppsala
