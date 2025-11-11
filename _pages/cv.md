@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+•	2011-2015, Ph.D. in Medical Science  
+Department of Oncology-Pathology, Cancer Centre Karolinska, Karolinska Institute, Sweden
+•	2008-2010, M.Sc. in Biotechnology
+Chalmers University of Technology, Gothenburg, Sweden 
 
 Work experience
 ======
