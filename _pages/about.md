@@ -18,10 +18,11 @@ We are committed to advancing cancer therapeutics through interdisciplinary coll
 Contact info:
 
 Department of Immunology, Genetics and Pathology, Cancer Precision Medicine
+
 Research group Xiaonan Zhang, Uppsala University, Sweden
 
 E-mail: 
-xiaonan.zhang@igp.uu.se
+(xiaonan.zhang@igp.uu.se)
 
 Visiting address: 
 Dag Hammarskjölds väg 20, 
