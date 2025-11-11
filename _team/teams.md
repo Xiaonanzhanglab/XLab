@@ -1,2 +1,14 @@
+---
+title: "Team"
+collection:
+type: "Undergraduate course"
+permalink: /Team/2025
+venue:
+date: 2025-11-01
+location: "City, Country"
+---
 
-_teaching/2014-spring-teaching-1.md
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Team Staff 
+======
