@@ -11,28 +11,21 @@ redirect_from:
 
 Education
 ======
-•	2011-2015, Ph.D. in Medical Science  
-Department of Oncology-Pathology, Cancer Centre Karolinska, Karolinska Institute, Sweden
-•	2008-2010, M.Sc. in Biotechnology
-Chalmers University of Technology, Gothenburg, Sweden 
+*  2011-2015, Ph.D. in Medical Science, Department of Oncology-Pathology, Cancer Centre Karolinska, Karolinska Institute, Sweden
+*  2008-2010, M.Sc. in Biotechnology, Chalmers University of Technology, Gothenburg, Sweden 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.02-Present, Associate Professor (Docent)
+Department of Immunology, Genetics and Pathology, Uppsala University, Sweden
+* 2020.02-2024.01, Project leader/Researcher
+Department of Immunology, Genetics and Pathology, Uppsala University, Sweden
+* 2019.01-2020.02, Visting Researcher
+Department of Obstetrics, Gynecology and Women's Health, University of Minnesota, USA
+* 2015.08-2019.01, Postdoctoral fellow
+Department of Oncology-Pathology, Cancer Centre Karolinska, Sweden
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+ 
 Skills
 ======
 * Skill 1
