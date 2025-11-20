@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Team"
-    url: /team/ 
+    url: /team/
     
   - title: "Publications"
     url: /publications/
@@ -21,7 +21,7 @@ main:
     url: /funding/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
   - title: "News"
     url: /news/
